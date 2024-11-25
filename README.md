@@ -1,1 +1,1 @@
-# Ortega_Mario_nov24
+# Ortega_Mario_nov24Hasta ahora he clonado el repositorio local, añadido a cada carpeta los archivos que se solicitaban y creado un commit con cada uno de esos cambios, en la rama main del repositorio local, sin pushear nada por el momento al repositorio remoto
